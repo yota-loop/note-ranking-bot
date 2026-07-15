@@ -8,25 +8,39 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Run note_ranking.py
-        env:
-          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
-          WP_USERNAME: ${{ secrets.WP_USERNAME }}
-          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
         run: python3 note_ranking.py
-      - name: Commit WordPressページID(次回の更新先を覚えておくため)
+      - name: Commit state (蓄積データを次回実行のために保存)
         run: |
           git config user.name "note-ranking-bot"
           git config user.email "noreply@example.com"
-          git add note_ranking_wp_page_id.txt
-          git diff --cached --quiet || git commit -m "chore: update wp page id state"
+          git add note_ranking_state.json note_ranking_last_run.txt
+          git diff --cached --quiet || git commit -m "chore: update accumulated state"
           git push
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp note_ranking/output/index.html _site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
