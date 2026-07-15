@@ -19,9 +19,9 @@ jobs:
           python-version: "3.12"
       - name: Run note_ranking.py
         env:
-          WP_XMLRPC_URL: ${{ secrets.WP_XMLRPC_URL }}
+          WP_SITE_URL: ${{ secrets.WP_SITE_URL }}
           WP_USERNAME: ${{ secrets.WP_USERNAME }}
-          WP_PASSWORD: ${{ secrets.WP_PASSWORD }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
         run: python3 note_ranking.py
       - name: Commit WordPressページID(次回の更新先を覚えておくため)
         run: |
