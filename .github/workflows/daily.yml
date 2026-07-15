@@ -1,0 +1,32 @@
+name: note-ranking daily update
+
+on:
+  schedule:
+    # 20:00 UTC = 5:00 JST。Macの電源状態に関係なくGitHub側のサーバーで実行される
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run note_ranking.py
+        env:
+          WP_XMLRPC_URL: ${{ secrets.WP_XMLRPC_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_PASSWORD: ${{ secrets.WP_PASSWORD }}
+        run: python3 note_ranking.py
+      - name: Commit WordPressページID(次回の更新先を覚えておくため)
+        run: |
+          git config user.name "note-ranking-bot"
+          git config user.email "noreply@example.com"
+          git add note_ranking_wp_page_id.txt
+          git diff --cached --quiet || git commit -m "chore: update wp page id state"
+          git push
