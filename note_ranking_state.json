@@ -238,9 +238,9 @@
     "url": "https://note.com/tsuzuru_yururi35/n/n46fdb7bb54a1",
     "title": "二次元オタクが、SixTONESに沼った話",
     "author": "ゆるりつづる｜目指せWebライター",
-    "follower_count": 10,
-    "like_count": 100,
-    "ratio": 10.0,
+    "follower_count": 12,
+    "like_count": 110,
+    "ratio": 9.166666666666666,
     "tag": "entertainment",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/296543715/rectangle_large_type_2_ca2966862e6bbb9a8996b1ca258c2de2.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-07-22T15:48:28+09:00",
@@ -258,5 +258,31 @@
     "eyecatch": "https://assets.st-note.com/production/uploads/images/295920360/rectangle_large_type_2_d47e0955a25f1dd0a2861f466bec7a9a.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-07-22T17:02:30+09:00",
     "discovered_at": "2026-07-25"
+  },
+  "n74e734b50eef": {
+    "key": "n74e734b50eef",
+    "url": "https://note.com/noted_plover8937/n/n74e734b50eef",
+    "title": "あべのハルカス美術館「ゴッホの跳ね橋と印象派の画家たち　ヴァルラフ＝リヒャルツ美術館所蔵」展　感想(7/8訪問)",
+    "author": "むら",
+    "follower_count": 22,
+    "like_count": 114,
+    "ratio": 5.181818181818182,
+    "tag": "art",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/294517652/rectangle_large_type_2_b8cae6f49fd103d44c944419f735d732.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-07-23T00:43:40+09:00",
+    "discovered_at": "2026-07-26"
+  },
+  "nc6ab27aea1c0": {
+    "key": "nc6ab27aea1c0",
+    "url": "https://note.com/_shiwasu_/n/nc6ab27aea1c0",
+    "title": "五島にあの星を見に行く",
+    "author": "詩走",
+    "follower_count": 56,
+    "like_count": 288,
+    "ratio": 5.142857142857143,
+    "tag": "travel",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/296441090/rectangle_large_type_2_6636b531712ff9368ac6da8b21812200.jpg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-07-22T08:49:53+09:00",
+    "discovered_at": "2026-07-26"
   }
 }
