@@ -25,19 +25,6 @@
     "publish_at": "2026-07-26T17:03:51+09:00",
     "discovered_at": "2026-07-29"
   },
-  "nc8f7589c1f25": {
-    "key": "nc8f7589c1f25",
-    "url": "https://note.com/froggos_note/n/nc8f7589c1f25",
-    "title": "【考察・感想】映画『ちいかわ』見てきた！人魚の島のひみつの正体とは？ 99分に隠されたもうひとつの\"ひみつ\"",
-    "author": "ふりカエル",
-    "follower_count": 24,
-    "like_count": 121,
-    "ratio": 5.041666666666667,
-    "tag": "movie",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/297266494/rectangle_large_type_2_747aceb85ccfe02603a4e9d87e7c7193.jpeg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-07-25T08:30:00+09:00",
-    "discovered_at": "2026-07-31"
-  },
   "n5097cd97a0a1": {
     "key": "n5097cd97a0a1",
     "url": "https://note.com/aitoakinai/n/n5097cd97a0a1",
@@ -486,8 +473,8 @@
     "title": "モンスターハンターワイルズの個人的ありえへん要素22選",
     "author": "horridus",
     "follower_count": 3,
-    "like_count": 130,
-    "ratio": 43.333333333333336,
+    "like_count": 133,
+    "ratio": 44.333333333333336,
     "tag": "game",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/304216216/rectangle_large_type_2_2adb027d756700f64aad3b67057ff6f3.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-08-19T20:12:37+09:00",
@@ -518,5 +505,18 @@
     "eyecatch": "https://assets.st-note.com/production/uploads/images/304493721/rectangle_large_type_2_62b7450326e7656a3709ccc28f32781d.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-08-21T21:04:00+09:00",
     "discovered_at": "2026-08-23"
+  },
+  "nccdea98eb38a": {
+    "key": "nccdea98eb38a",
+    "url": "https://note.com/naginagi_it30/n/nccdea98eb38a",
+    "title": "なぎのnoteについて",
+    "author": "なぎ",
+    "follower_count": 12,
+    "like_count": 133,
+    "ratio": 11.083333333333334,
+    "tag": "lifestyle",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/306412095/rectangle_large_type_2_91e7cb3d39b1e35d068a0124f7d11622.png?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-08-24T04:27:12+09:00",
+    "discovered_at": "2026-08-25"
   }
 }
