@@ -1,17 +1,4 @@
 {
-  "n24de13f98044": {
-    "key": "n24de13f98044",
-    "url": "https://note.com/nii_yohaku/n/n24de13f98044",
-    "title": "言うつもりだったことは、だいたい少し遅い。",
-    "author": "余白に住んでいるNii",
-    "follower_count": 8,
-    "like_count": 136,
-    "ratio": 17.0,
-    "tag": "novel",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/304493721/rectangle_large_type_2_62b7450326e7656a3709ccc28f32781d.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-08-21T21:04:00+09:00",
-    "discovered_at": "2026-08-23"
-  },
   "nccdea98eb38a": {
     "key": "nccdea98eb38a",
     "url": "https://note.com/naginagi_it30/n/nccdea98eb38a",
@@ -732,9 +719,9 @@
     "url": "https://note.com/lexeed/n/n1eebf5227295",
     "title": "話題のあの作品の話",
     "author": "れく破り、承る！",
-    "follower_count": 14,
-    "like_count": 217,
-    "ratio": 15.5,
+    "follower_count": 17,
+    "like_count": 225,
+    "ratio": 13.235294117647058,
     "tag": "manga",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/313969786/rectangle_large_type_2_634a4605725f4f589b904e52b6fc41d3.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-15T17:56:25+09:00",
@@ -771,9 +758,9 @@
     "url": "https://note.com/deft_daisy4847/n/n759fb808fc67",
     "title": "ハムスター",
     "author": "かりや",
-    "follower_count": 17,
-    "like_count": 350,
-    "ratio": 20.58823529411765,
+    "follower_count": 18,
+    "like_count": 354,
+    "ratio": 19.666666666666668,
     "tag": "pet",
     "eyecatch": "",
     "publish_at": "2026-09-18T03:08:33+09:00",
@@ -791,5 +778,44 @@
     "eyecatch": "https://assets.st-note.com/production/uploads/images/314587162/rectangle_large_type_2_d3b7eb18e5bbd052be22b8b303dd90ef.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-18T21:06:13+09:00",
     "discovered_at": "2026-09-20"
+  },
+  "n60bcdc14cf35": {
+    "key": "n60bcdc14cf35",
+    "url": "https://note.com/3369kentaro/n/n60bcdc14cf35",
+    "title": "【まだ歩けるから大丈夫が一番危ない】寝たきりならないために今から始めて欲しい３つのこと",
+    "author": "笹原健太郎の足腰ノート",
+    "follower_count": 3,
+    "like_count": 114,
+    "ratio": 38.0,
+    "tag": "health",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/315459915/rectangle_large_type_2_3ef7d020a4635ee194c1cd0883312059.jpg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-09-20T08:47:03+09:00",
+    "discovered_at": "2026-09-21"
+  },
+  "n4873863720e5": {
+    "key": "n4873863720e5",
+    "url": "https://note.com/fresh_swift4953/n/n4873863720e5",
+    "title": "SideM人生が始まった話",
+    "author": "箸",
+    "follower_count": 2,
+    "like_count": 100,
+    "ratio": 50.0,
+    "tag": "manga",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/315278066/rectangle_large_type_2_8ffef00e03dbbc5243696d3ab931678c.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-09-19T18:39:57+09:00",
+    "discovered_at": "2026-09-21"
+  },
+  "n842ad5809731": {
+    "key": "n842ad5809731",
+    "url": "https://note.com/now_know_note/n/n842ad5809731",
+    "title": "noteを始める話。",
+    "author": "よんさん",
+    "follower_count": 23,
+    "like_count": 121,
+    "ratio": 5.260869565217392,
+    "tag": "lifestyle",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/315353134/rectangle_large_type_2_ab28b716698deb47c742dc22b909a339.jpg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-09-19T21:34:42+09:00",
+    "discovered_at": "2026-09-21"
   }
 }
