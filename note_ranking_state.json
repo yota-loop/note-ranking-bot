@@ -1,43 +1,4 @@
 {
-  "nfa7886e78b34": {
-    "key": "nfa7886e78b34",
-    "url": "https://note.com/arukudaifuku/n/nfa7886e78b34",
-    "title": "U:nityと遊戯王",
-    "author": "鞠",
-    "follower_count": 7,
-    "like_count": 262,
-    "ratio": 37.42857142857143,
-    "tag": "entertainment",
-    "eyecatch": "",
-    "publish_at": "2026-08-24T19:53:01+09:00",
-    "discovered_at": "2026-08-26"
-  },
-  "n34d65599ec06": {
-    "key": "n34d65599ec06",
-    "url": "https://note.com/noise_ha_kese/n/n34d65599ec06",
-    "title": "159cm49kg→42kg(BMI19→16)に落とした方法",
-    "author": "ノイズは消せ",
-    "follower_count": 18,
-    "like_count": 159,
-    "ratio": 8.833333333333334,
-    "tag": "health",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/306643609/rectangle_large_type_2_4dfc2d5ca4f525d91cc10cb2c33ef911.jpg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-08-24T20:46:19+09:00",
-    "discovered_at": "2026-08-26"
-  },
-  "n8e2c30bba87e": {
-    "key": "n8e2c30bba87e",
-    "url": "https://note.com/i_hug_sea/n/n8e2c30bba87e",
-    "title": "NHK高校講座を流し続けたあの夏――学校の授業は全部動画でいいと言う人へ",
-    "author": "佐々木",
-    "follower_count": 30,
-    "like_count": 322,
-    "ratio": 10.733333333333333,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/306616583/rectangle_large_type_2_9ab898d49fbd4425fab42e85d489d9d6.jpeg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-08-24T17:59:01+09:00",
-    "discovered_at": "2026-08-26"
-  },
   "n29019c520a59": {
     "key": "n29019c520a59",
     "url": "https://note.com/aka_emu_m_m/n/n29019c520a59",
@@ -810,12 +771,25 @@
     "url": "https://note.com/rollcaketime/n/nff0464380a9f",
     "title": "【ミリオン14thDay1】好きな女の子がライブで主演公演やるっていうからミリオン単独現地に初めて行ってきたぞ〜！",
     "author": "モコ子",
-    "follower_count": 1,
-    "like_count": 101,
-    "ratio": 101.0,
+    "follower_count": 2,
+    "like_count": 114,
+    "ratio": 57.0,
     "tag": "entertainment",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/315878774/rectangle_large_type_2_c6207e6e0e1ad83782adbd34d8752803.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-21T13:01:45+09:00",
     "discovered_at": "2026-09-23"
+  },
+  "n45fa4143da77": {
+    "key": "n45fa4143da77",
+    "url": "https://note.com/zenmaishark/n/n45fa4143da77",
+    "title": "【 #にじ遊戯王祭2026 感想】「過程を共有する」事で生まれるドラマ性と「ガチ」だからこその面白さ",
+    "author": "はみるとん",
+    "follower_count": 23,
+    "like_count": 162,
+    "ratio": 7.043478260869565,
+    "tag": "game",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/316774389/rectangle_large_type_2_952aa7735752a957808605cb235d8843.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-09-23T21:19:27+09:00",
+    "discovered_at": "2026-09-24"
   }
 }
