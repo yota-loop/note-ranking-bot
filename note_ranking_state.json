@@ -1,17 +1,4 @@
 {
-  "n7b16df44bfaa": {
-    "key": "n7b16df44bfaa",
-    "url": "https://note.com/chibanamiorca/n/n7b16df44bfaa",
-    "title": "「ゲームが上手くなる」って、実はニッチな遊び方なんじゃね？",
-    "author": "千葉波オルカ",
-    "follower_count": 16,
-    "like_count": 212,
-    "ratio": 13.25,
-    "tag": "game",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/307249139/rectangle_large_type_2_1867ec60f0b369d347bfa3397d2762cf.jpeg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-08-27T13:32:48+09:00",
-    "discovered_at": "2026-08-28"
-  },
   "nf104f47557e9": {
     "key": "nf104f47557e9",
     "url": "https://note.com/zenjituloku/n/nf104f47557e9",
@@ -24,19 +11,6 @@
     "eyecatch": "https://assets.st-note.com/production/uploads/images/307754964/rectangle_large_type_2_819d425751d8d78729c33edbcbef9d5e.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-08-28T11:41:23+09:00",
     "discovered_at": "2026-08-29"
-  },
-  "ne014703ef5f0": {
-    "key": "ne014703ef5f0",
-    "url": "https://note.com/firm_viper6354/n/ne014703ef5f0",
-    "title": "【ひとり旅】美的センスゼロな私が、京都散歩で美術を浴びた1日。",
-    "author": "SHINO | 北部で暮らしながら、沖縄を再発見中",
-    "follower_count": 49,
-    "like_count": 300,
-    "ratio": 6.122448979591836,
-    "tag": "art",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/307259428/rectangle_large_type_2_4104501a1fd0404e625c12f59ef65ac5.jpeg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-08-27T18:02:23+09:00",
-    "discovered_at": "2026-08-31"
   },
   "n5c8d4aaa35b4": {
     "key": "n5c8d4aaa35b4",
@@ -733,8 +707,8 @@
     "title": "【ミリオン14thDay1】好きな女の子がライブで主演公演やるっていうからミリオン単独現地に初めて行ってきたぞ〜！",
     "author": "モコ子",
     "follower_count": 2,
-    "like_count": 152,
-    "ratio": 76.0,
+    "like_count": 153,
+    "ratio": 76.5,
     "tag": "entertainment",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/315878774/rectangle_large_type_2_c6207e6e0e1ad83782adbd34d8752803.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-21T13:01:45+09:00",
@@ -745,9 +719,9 @@
     "url": "https://note.com/zenmaishark/n/n45fa4143da77",
     "title": "【 #にじ遊戯王祭2026 感想】「過程を共有する」事で生まれるドラマ性と「ガチ」だからこその面白さ",
     "author": "はみるとん",
-    "follower_count": 36,
-    "like_count": 270,
-    "ratio": 7.5,
+    "follower_count": 37,
+    "like_count": 275,
+    "ratio": 7.4324324324324325,
     "tag": "game",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/316774389/rectangle_large_type_2_952aa7735752a957808605cb235d8843.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-23T21:19:27+09:00",
@@ -771,12 +745,25 @@
     "url": "https://note.com/soukeigoudou/n/n2268c4cebe12",
     "title": "【社会人】押し入れのギターを売る前に。「美品」と「中古品」の差は1万円、249機種の買取価格を数えた",
     "author": "中古相場ノート",
-    "follower_count": 24,
-    "like_count": 179,
-    "ratio": 7.458333333333333,
+    "follower_count": 23,
+    "like_count": 248,
+    "ratio": 10.782608695652174,
     "tag": "music",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/317229905/rectangle_large_type_2_ddf73cd286314159e046c80705ff819c.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-25T06:56:42+09:00",
     "discovered_at": "2026-09-26"
+  },
+  "n34724f87cb1e": {
+    "key": "n34724f87cb1e",
+    "url": "https://note.com/fair_ooita/n/n34724f87cb1e",
+    "title": "社長の退職金を共済と保険で作る設計図",
+    "author": "金融相談サービスFAIR",
+    "follower_count": 11,
+    "like_count": 111,
+    "ratio": 10.090909090909092,
+    "tag": "business",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/317642216/rectangle_large_type_2_58a1354892485ac6ac06a6f7afb2d8a2.png?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-09-26T11:46:21+09:00",
+    "discovered_at": "2026-09-27"
   }
 }
