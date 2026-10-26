@@ -1,17 +1,4 @@
 {
-  "n34724f87cb1e": {
-    "key": "n34724f87cb1e",
-    "url": "https://note.com/fair_ooita/n/n34724f87cb1e",
-    "title": "社長の退職金を共済と保険で作る設計図",
-    "author": "金融相談サービスFAIR",
-    "follower_count": 11,
-    "like_count": 111,
-    "ratio": 10.090909090909092,
-    "tag": "business",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/317642216/rectangle_large_type_2_58a1354892485ac6ac06a6f7afb2d8a2.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-09-26T11:46:21+09:00",
-    "discovered_at": "2026-09-27"
-  },
   "n0b46ab68b579": {
     "key": "n0b46ab68b579",
     "url": "https://note.com/soukeigoudou/n/n0b46ab68b579",
@@ -88,45 +75,6 @@
     "tag": "education",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/318100814/rectangle_large_type_2_1591155028683770899219b5e5d388d3.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-27T15:46:17+09:00",
-    "discovered_at": "2026-09-29"
-  },
-  "nf88b79146ea7": {
-    "key": "nf88b79146ea7",
-    "url": "https://note.com/bunkeiawssan/n/nf88b79146ea7",
-    "title": "AI-901 過去問は本当に無いのか。資格の独学で代わりに解く無料の52問",
-    "author": "文系AWS系クラウドエンジニアさん",
-    "follower_count": 55,
-    "like_count": 312,
-    "ratio": 5.672727272727273,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/317682632/rectangle_large_type_2_f2729f2baf58b48bfe08c7db32a413f5.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-09-26T13:52:14+09:00",
-    "discovered_at": "2026-09-29"
-  },
-  "n82a9bbd3e4c9": {
-    "key": "n82a9bbd3e4c9",
-    "url": "https://note.com/bunkeiawssan/n/n82a9bbd3e4c9",
-    "title": "AI-901 勉強時間は16時間から。平日1時間の資格勉強で約3週間",
-    "author": "文系AWS系クラウドエンジニアさん",
-    "follower_count": 55,
-    "like_count": 327,
-    "ratio": 5.945454545454545,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/317586890/rectangle_large_type_2_d56d951cedc40cd15eb0c3229ae56f0e.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-09-26T08:32:01+09:00",
-    "discovered_at": "2026-09-29"
-  },
-  "n01567528c3c0": {
-    "key": "n01567528c3c0",
-    "url": "https://note.com/bunkeiawssan/n/n01567528c3c0",
-    "title": "AI-901 勉強法は何から始めるか。配点の最大6割が実装の資格試験",
-    "author": "文系AWS系クラウドエンジニアさん",
-    "follower_count": 55,
-    "like_count": 322,
-    "ratio": 5.8545454545454545,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/317587841/rectangle_large_type_2_bcce1da8523505965f4898f8e76341b1.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-09-26T08:35:48+09:00",
     "discovered_at": "2026-09-29"
   },
   "n989b413e2808": {
@@ -257,19 +205,6 @@
     "tag": "education",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/318060092/rectangle_large_type_2_98b99e5c5e14b4ba22847c8774ec4fc3.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-09-27T13:52:34+09:00",
-    "discovered_at": "2026-09-30"
-  },
-  "n4bace65b452c": {
-    "key": "n4bace65b452c",
-    "url": "https://note.com/bunkeiawssan/n/n4bace65b452c",
-    "title": "ITIL5 ファンデーション 合格点を、文系の社会人が無料50問の33問に置き換えてみた",
-    "author": "文系AWS系クラウドエンジニアさん",
-    "follower_count": 54,
-    "like_count": 285,
-    "ratio": 5.277777777777778,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/317962999/rectangle_large_type_2_52c3f783c7f9d147c45936176691f42f.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-09-27T08:32:36+09:00",
     "discovered_at": "2026-09-30"
   },
   "nbfdd288f8ba1": {
@@ -1278,12 +1213,25 @@
     "url": "https://note.com/super_ixia613/n/n8def2b607de6",
     "title": "最前管理はクソ",
     "author": "白金姫羽",
-    "follower_count": 43,
-    "like_count": 233,
-    "ratio": 5.4186046511627906,
+    "follower_count": 44,
+    "like_count": 235,
+    "ratio": 5.340909090909091,
     "tag": "entertainment",
     "eyecatch": "",
     "publish_at": "2026-10-21T01:43:32+09:00",
     "discovered_at": "2026-10-22"
+  },
+  "n40e2f93b33c5": {
+    "key": "n40e2f93b33c5",
+    "url": "https://note.com/deep_bobcat3382/n/n40e2f93b33c5",
+    "title": "【デュエル・マスターズ】偽りの羅刹 アガサ・エルキュールのすゝめ",
+    "author": "霧鳥",
+    "follower_count": 17,
+    "like_count": 102,
+    "ratio": 6.0,
+    "tag": "game",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/327095403/rectangle_large_type_2_4e0e5fc4dd2b1509871fb4ea15980d33.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-10-22T17:08:06+09:00",
+    "discovered_at": "2026-10-27"
   }
 }
