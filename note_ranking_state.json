@@ -1,17 +1,4 @@
 {
-  "n50b0719cd6fb": {
-    "key": "n50b0719cd6fb",
-    "url": "https://note.com/spispht1235/n/n50b0719cd6fb",
-    "title": "スピッツ封印曲ランキング",
-    "author": "ほのほ",
-    "follower_count": 19,
-    "like_count": 118,
-    "ratio": 6.2105263157894735,
-    "tag": "music",
-    "eyecatch": "",
-    "publish_at": "2026-10-04T17:52:11+09:00",
-    "discovered_at": "2026-10-06"
-  },
   "nc678d25cd2d9": {
     "key": "nc678d25cd2d9",
     "url": "https://note.com/stylegroup_2014/n/nc678d25cd2d9",
@@ -23,19 +10,6 @@
     "tag": "career",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/319838089/rectangle_large_type_2_8213d38ce649ebc73e0ffdd3114f11bf.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-10-06T11:00:51+09:00",
-    "discovered_at": "2026-10-07"
-  },
-  "ne5e4ee08058a": {
-    "key": "ne5e4ee08058a",
-    "url": "https://note.com/muto_kuma/n/ne5e4ee08058a",
-    "title": "やりたいことを見つけるのは40歳でも遅くない",
-    "author": "無糖くま",
-    "follower_count": 21,
-    "like_count": 105,
-    "ratio": 5.0,
-    "tag": "career",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/320663399/rectangle_large_type_2_4943f2961fe1f16cf22b365554257380.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-04T15:33:56+09:00",
     "discovered_at": "2026-10-07"
   },
   "na2263ec4cbf1": {
@@ -759,8 +733,8 @@
     "title": "デュエプレコラボパックへの文句まとめ。",
     "author": "メルヴァ",
     "follower_count": 1,
-    "like_count": 206,
-    "ratio": 206.0,
+    "like_count": 210,
+    "ratio": 210.0,
     "tag": "game",
     "eyecatch": "",
     "publish_at": "2026-10-31T04:02:20+09:00",
@@ -810,12 +784,25 @@
     "url": "https://note.com/ko86/n/n6ebd9332b2dc",
     "title": "うつ病・適応障害でも働ける？｜30代・40代から仕事の選択肢を広げる「意外な」5つの方法",
     "author": "こはる｜40代現役大学生・人事採用5年・就職支援経験・自身も20代からうつ",
-    "follower_count": 42,
-    "like_count": 277,
-    "ratio": 6.595238095238095,
+    "follower_count": 54,
+    "like_count": 279,
+    "ratio": 5.166666666666667,
     "tag": "career",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/331091183/rectangle_large_type_2_11735a07c6173ee600dca8151a9827b8.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-02T19:38:14+09:00",
     "discovered_at": "2026-11-03"
+  },
+  "nf061e7d362fd": {
+    "key": "nf061e7d362fd",
+    "url": "https://note.com/jalokivi/n/nf061e7d362fd",
+    "title": "「ジジイ、見てるか！？」",
+    "author": "やろきび",
+    "follower_count": 25,
+    "like_count": 288,
+    "ratio": 11.52,
+    "tag": "entertainment",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/331844157/rectangle_large_type_2_2e7624e7d35a97a5df28e595a3ef04ac.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-11-03T11:34:33+09:00",
+    "discovered_at": "2026-11-04"
   }
 }
