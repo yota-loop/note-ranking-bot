@@ -12,19 +12,6 @@
     "publish_at": "2026-10-13T21:30:06+09:00",
     "discovered_at": "2026-10-14"
   },
-  "nf65e38ac7ead": {
-    "key": "nf65e38ac7ead",
-    "url": "https://note.com/soukeigoudou/n/nf65e38ac7ead",
-    "title": "社会人のギター練習、スタジオの個人練習は1時間770円。",
-    "author": "中古相場ノート",
-    "follower_count": 26,
-    "like_count": 312,
-    "ratio": 12.0,
-    "tag": "music",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/323787481/rectangle_large_type_2_3462152de4d4dc4fcd3d15c165395bad.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-13T07:34:41+09:00",
-    "discovered_at": "2026-10-14"
-  },
   "n0bc7ef0f145c": {
     "key": "n0bc7ef0f145c",
     "url": "https://note.com/machico__/n/n0bc7ef0f145c",
@@ -75,19 +62,6 @@
     "tag": "movie",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/324702476/rectangle_large_type_2_a464d215aa9ded485981803483c029e0.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-10-15T14:37:35+09:00",
-    "discovered_at": "2026-10-17"
-  },
-  "n2426c5791666": {
-    "key": "n2426c5791666",
-    "url": "https://note.com/bunkeiawssan/n/n2426c5791666",
-    "title": "DS検定 勉強時間は50時間。文系の社会人が平日45分で独学した内訳",
-    "author": "文系AWS系クラウドエンジニアさん",
-    "follower_count": 100,
-    "like_count": 514,
-    "ratio": 5.14,
-    "tag": "education",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/323449951/rectangle_large_type_2_da70dc391cd5b65f69cc62d74c262adb.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-12T10:31:26+09:00",
     "discovered_at": "2026-10-17"
   },
   "nd6e6ff229da2": {
@@ -576,9 +550,9 @@
     "url": "https://note.com/konkatsu_note777/n/n011ec1e22d75",
     "title": "マッチングアプリのメッセージは続くのに、会えない理由",
     "author": "こまめ子｜女性目線の男性向け婚活戦略室｜婚活5年・出会い50人・現在交際中♡",
-    "follower_count": 16,
-    "like_count": 182,
-    "ratio": 11.375,
+    "follower_count": 35,
+    "like_count": 189,
+    "ratio": 5.4,
     "tag": "love",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/333027192/rectangle_large_type_2_2b395fd20560693cdd455d05f9b1acc8.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-08T13:21:21+09:00",
@@ -609,5 +583,31 @@
     "eyecatch": "https://assets.st-note.com/production/uploads/images/333300708/rectangle_large_type_2_6b41a1bb19bd24127a85b6b9c7780ce1.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-07T20:46:13+09:00",
     "discovered_at": "2026-11-10"
+  },
+  "n2a53c0e99791": {
+    "key": "n2a53c0e99791",
+    "url": "https://note.com/ka_6n/n/n2a53c0e99791",
+    "title": "Windows11 軽量化のあれこれ",
+    "author": "カロン",
+    "follower_count": 55,
+    "like_count": 630,
+    "ratio": 11.454545454545455,
+    "tag": "tech",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/334614440/rectangle_large_type_2_c55a7bc4d140ab76c2274444634461ea.jpeg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-11-10T22:22:18+09:00",
+    "discovered_at": "2026-11-12"
+  },
+  "n4069eb3646ff": {
+    "key": "n4069eb3646ff",
+    "url": "https://note.com/kicktakumi/n/n4069eb3646ff",
+    "title": "あしたのために",
+    "author": "濱田巧",
+    "follower_count": 22,
+    "like_count": 193,
+    "ratio": 8.772727272727273,
+    "tag": "sports",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/334708336/rectangle_large_type_2_b918325d335990bca8f43cdf35c6d9fc.jpg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-11-09T22:57:58+09:00",
+    "discovered_at": "2026-11-12"
   }
 }
