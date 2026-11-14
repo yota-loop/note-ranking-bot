@@ -1,30 +1,4 @@
 {
-  "n0bc7ef0f145c": {
-    "key": "n0bc7ef0f145c",
-    "url": "https://note.com/machico__/n/n0bc7ef0f145c",
-    "title": "BE:FIRSTとかいう音楽集団の話～BMSG FES'26～",
-    "author": "G",
-    "follower_count": 86,
-    "like_count": 512,
-    "ratio": 5.953488372093023,
-    "tag": "music",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/324239797/rectangle_large_type_2_30a2e9df24ed5dba4b056ffb8f3446a3.jpeg?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-14T13:56:46+09:00",
-    "discovered_at": "2026-10-16"
-  },
-  "ne90ed5ded7f0": {
-    "key": "ne90ed5ded7f0",
-    "url": "https://note.com/soukeigoudou/n/ne90ed5ded7f0",
-    "title": "社会人が実家のギターを宅急便で送ると、いくらかかるのか。関東から関西の200サイズは5,410円",
-    "author": "中古相場ノート",
-    "follower_count": 26,
-    "like_count": 182,
-    "ratio": 7.0,
-    "tag": "music",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/324503844/rectangle_large_type_2_afcd3b0d0359cf5e1ce5d54ac899073f.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-15T08:00:04+09:00",
-    "discovered_at": "2026-10-16"
-  },
   "nab946df7a1dc": {
     "key": "nab946df7a1dc",
     "url": "https://note.com/soukeigoudou/n/nab946df7a1dc",
@@ -49,19 +23,6 @@
     "tag": "movie",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/324702476/rectangle_large_type_2_a464d215aa9ded485981803483c029e0.png?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-10-15T14:37:35+09:00",
-    "discovered_at": "2026-10-17"
-  },
-  "nd6e6ff229da2": {
-    "key": "nd6e6ff229da2",
-    "url": "https://note.com/chiajournal_/n/nd6e6ff229da2",
-    "title": "31歳、休職3回・転職5回。そんな私がフリーランスを目指す理由。",
-    "author": "chia｜coffee & slow living",
-    "follower_count": 30,
-    "like_count": 166,
-    "ratio": 5.533333333333333,
-    "tag": "career",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/324391257/rectangle_large_type_2_7a8aafe7b33e942767218b1cce3ea877.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-14T21:09:32+09:00",
     "discovered_at": "2026-10-17"
   },
   "ncf35a3de2fc2": {
@@ -602,9 +563,9 @@
     "url": "https://note.com/tacty_fashion/n/ne0fdadf00682",
     "title": "服バカ流概念コーデのすすめ",
     "author": "たくてぃ",
-    "follower_count": 21,
-    "like_count": 123,
-    "ratio": 5.857142857142857,
+    "follower_count": 31,
+    "like_count": 158,
+    "ratio": 5.096774193548387,
     "tag": "fashion",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/334649366/rectangle_large_type_2_12d47f9ff8ed3e2518d5995aafba8572.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-11T15:07:07+09:00",
@@ -616,11 +577,24 @@
     "title": "青山劇場で泣いていた君へ",
     "author": "𝙎𝙐𝙋𝙀𝙍 𝙆𝙊𝘼𝙇𝘼",
     "follower_count": 2,
-    "like_count": 106,
-    "ratio": 53.0,
+    "like_count": 109,
+    "ratio": 54.5,
     "tag": "entertainment",
     "eyecatch": "",
     "publish_at": "2026-11-11T21:45:37+09:00",
     "discovered_at": "2026-11-13"
+  },
+  "nd1422328e71c": {
+    "key": "nd1422328e71c",
+    "url": "https://note.com/bom_haruharu/n/nd1422328e71c",
+    "title": "顔も知らない同級生と結婚した",
+    "author": "春",
+    "follower_count": 46,
+    "like_count": 354,
+    "ratio": 7.695652173913044,
+    "tag": "love",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/334945311/rectangle_large_type_2_4b75f93fab0cfa9beeeca99b7f2bd448.jpg?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-11-13T20:03:04+09:00",
+    "discovered_at": "2026-11-14"
   }
 }
