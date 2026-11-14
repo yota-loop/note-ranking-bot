@@ -1,30 +1,4 @@
 {
-  "nab946df7a1dc": {
-    "key": "nab946df7a1dc",
-    "url": "https://note.com/soukeigoudou/n/nab946df7a1dc",
-    "title": "DIYの互換バッテリーは本当に安いのか。電動工具の非純正電池の事故は10年で103件",
-    "author": "中古相場ノート",
-    "follower_count": 28,
-    "like_count": 274,
-    "ratio": 9.785714285714286,
-    "tag": "gadget",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/324841932/rectangle_large_type_2_644afc1daf949921a5ee98ae67ab6095.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-16T07:12:12+09:00",
-    "discovered_at": "2026-10-17"
-  },
-  "nce9192356116": {
-    "key": "nce9192356116",
-    "url": "https://note.com/_chain_gang_/n/nce9192356116",
-    "title": "【映画感想文】『汝、星のごとく』絶望で描く生きる意味と選択が時に人を救うのだと教えてくれた映画。",
-    "author": "Y-わい-Y",
-    "follower_count": 15,
-    "like_count": 150,
-    "ratio": 10.0,
-    "tag": "movie",
-    "eyecatch": "https://assets.st-note.com/production/uploads/images/324702476/rectangle_large_type_2_a464d215aa9ded485981803483c029e0.png?fit=bounds&quality=85&width=1280",
-    "publish_at": "2026-10-15T14:37:35+09:00",
-    "discovered_at": "2026-10-17"
-  },
   "ncf35a3de2fc2": {
     "key": "ncf35a3de2fc2",
     "url": "https://note.com/manyo_0625/n/ncf35a3de2fc2",
@@ -537,9 +511,9 @@
     "url": "https://note.com/ka_6n/n/n2a53c0e99791",
     "title": "Windows11 軽量化のあれこれ",
     "author": "カロン",
-    "follower_count": 60,
-    "like_count": 732,
-    "ratio": 12.2,
+    "follower_count": 61,
+    "like_count": 766,
+    "ratio": 12.557377049180328,
     "tag": "tech",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/334614440/rectangle_large_type_2_c55a7bc4d140ab76c2274444634461ea.jpeg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-10T22:22:18+09:00",
@@ -589,12 +563,25 @@
     "url": "https://note.com/bom_haruharu/n/nd1422328e71c",
     "title": "顔も知らない同級生と結婚した",
     "author": "春",
-    "follower_count": 46,
-    "like_count": 354,
-    "ratio": 7.695652173913044,
+    "follower_count": 57,
+    "like_count": 588,
+    "ratio": 10.31578947368421,
     "tag": "love",
     "eyecatch": "https://assets.st-note.com/production/uploads/images/334945311/rectangle_large_type_2_4b75f93fab0cfa9beeeca99b7f2bd448.jpg?fit=bounds&quality=85&width=1280",
     "publish_at": "2026-11-13T20:03:04+09:00",
     "discovered_at": "2026-11-14"
+  },
+  "nbe7b57b68b2a": {
+    "key": "nbe7b57b68b2a",
+    "url": "https://note.com/hatara/n/nbe7b57b68b2a",
+    "title": "富山に来たら食べてかれ、富山県民の私がおすすめする富山グルメ",
+    "author": "りー",
+    "follower_count": 17,
+    "like_count": 153,
+    "ratio": 9.0,
+    "tag": "gourmet",
+    "eyecatch": "https://assets.st-note.com/production/uploads/images/335605834/rectangle_large_type_2_fc03f0718e9af569462d81522a0c3d75.png?fit=bounds&quality=85&width=1280",
+    "publish_at": "2026-11-13T14:33:48+09:00",
+    "discovered_at": "2026-11-15"
   }
 }
